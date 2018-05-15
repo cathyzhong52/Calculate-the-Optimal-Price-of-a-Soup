@@ -1,1 +1,1 @@
-Predicting the future aggregate demand of soup; avoiding the attenuation bias, omitted variable bias; Calculating the Optimal Price.
+Predicting the future aggregate demand of soup; Avoiding the attenuation bias, omitted variable bias; Calculating the Optimal Price.
